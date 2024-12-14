@@ -1,18 +1,18 @@
 'use client'
 
-import { motion } from 'framer-motion'
-import Balancer from 'react-wrap-balancer'
+import { motion } from 'framer-motion'  // 外部库导入
+import Balancer from 'react-wrap-balancer'  // 外部库导入
 
-import { LightBulbIcon, BrushIcon, SparkleIcon, UserSecurityIcon } from '~/assets'
-import { PeekabooLink } from '~/components/links/PeekabooLink'
-import { SocialLink } from '~/components/links/SocialLink'
+import { LightBulbIcon, BrushIcon, SparkleIcon, UserSecurityIcon } from '~/assets'  // 内部组件导入
+import { PeekabooLink } from '~/components/links/PeekabooLink'  // 内部组件导入
+import { SocialLink } from '~/components/links/SocialLink'  // 内部组件导入
 
 function Developer() {
   return (
     <span className="group">
       <span className="font-mono">&lt;</span>开发者
       <LightBulbIcon className="mr-1 inline-flex transform-gpu transition-transform duration-500 group-hover:rotate-180" />
-      <span class="ml-1 mr-2">工程师</span>
+      <span className="ml-1 mr-2">工程师</span>
     </span>
   )
 }
@@ -29,7 +29,7 @@ function Designer() {
       {/* 图标和文字一起显示 */}
       <span className="group">
         <BrushIcon className="mr-2 inline-flex transform-gpu transition-transform duration-500 group-hover:rotate-180" />
-        <span class="ml-1 mr-2">设计师</span>
+        <span className="ml-1 mr-2">设计师</span>
       </span>
     </span>
   )
@@ -39,7 +39,7 @@ function OCD() {
   return (
     <span className="group">
       <SparkleIcon className="mr-1 inline-flex transform-gpu transition-transform duration-500 group-hover:rotate-180" />
-      <span class="ml-1 mr-2">细节控</span>
+      <span className="ml-1 mr-2">细节控</span>
     </span>
   )
 }
@@ -48,7 +48,7 @@ function Founder() {
   return (
     <span className="group ml-2">
       <UserSecurityIcon className="mr-1 inline-flex group-hover:fill-zinc-600/20 dark:group-hover:fill-zinc-200/20" />
-      <span class="ml-1 mr-2">创始人</span>
+      <span className="ml-1 mr-2">创始人</span>
     </span>
   )
 }
