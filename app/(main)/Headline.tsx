@@ -74,7 +74,7 @@ function OCD() {
   return (
     <span className="group">
       <SparkleIcon className="mr-1 inline-flex transform-gpu transition-transform duration-500 group-hover:rotate-180" />
-      <span class="ml-1 mr-2">细节控</span>
+      <span className="ml-1 mr-2">细节控</span>
     </span>
   )
 }
@@ -83,7 +83,7 @@ function Founder() {
   return (
     <span className="group ml-2">
       <UserSecurityIcon className="mr-1 inline-flex group-hover:fill-zinc-600/20 dark:group-hover:fill-zinc-200/20" />
-      <span class="ml-1 mr-2">创始人</span>
+      <span className="ml-1 mr-2">创始人</span>
     </span>
   )
 }
