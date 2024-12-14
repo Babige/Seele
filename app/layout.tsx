@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     siteName: 'Seele Hu',
     locale: 'zh_CN',
     type: 'website',
-    url: 'https://seele.vercel.app',
+    url: 'https://seele.im',
   },
   twitter: {
     site: '@Babig3e',
