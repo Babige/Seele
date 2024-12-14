@@ -132,27 +132,27 @@ export function Headline() {
         }}
       >
         <SocialLink
-          href="https://seele.vercel.app/twitter"
+          href="https://seele.im/twitter"
           aria-label="我的推特"
           platform="twitter"
         />
         <SocialLink
-          href="https://seele.vercel.app/youtube"
+          href="https://seele.im/youtube"
           aria-label="我的 YouTube"
           platform="youtube"
         />
         <SocialLink
-          href="https://seele.vercel.app/bilibili"
+          href="https://seele.im/bilibili"
           aria-label="我的 Bilibili"
           platform="bilibili"
         />
         <SocialLink
-          href="https://seele.vercel.app/github"
+          href="https://seele.im/github"
           aria-label="我的 GitHub"
           platform="github"
         />
         <SocialLink
-          href="https://seele.vercel.app/tg"
+          href="https://seele.im/tg"
           aria-label="我的 Telegram"
           platform="telegram"
         />
