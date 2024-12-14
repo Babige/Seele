@@ -10,7 +10,7 @@ import ThankYouLetterScreenshot2 from './Arc ynleUdHy@2x.png'
 
 const title = 'AMA 一对一咨询'
 const description =
-  'Cali 提供一对一的咨询服务（Ask Me Anything）。我有前端开发、全栈开发、UI/UX 设计、创业经验、英语技能、美国留学与工作、内容创作等经验，可以为你解答相关的问题，我也支持纯英语沟通。'
+  'Seele 提供一对一的咨询服务（Ask Me Anything）。我有各业态（办公、酒店、景观、商业综合体等）的室内外照明设计、家庭智能照明设计、HomeLAB部署、内容创作等经验，可以为你解答相关的问题，我仅支持普通话沟通。'
 
 export const metadata = {
   title,
@@ -43,50 +43,31 @@ export default function AskMeAnythingPage() {
         <p>我可以为你解答以下相关的问题：</p>
         <ul>
           <li>
-            <b>前端/全栈开发</b>
-            ：工作难找，或是寻求职场建议？想提升自己的工程师水平？还是想锐评
+            <b>照明设计</b>
+            ：对灯光氛围的需求提升？想改善照明环境，对功能、美感。舒适度的需求？希望在灯光体验上获得观感和情感共鸣？
             React vs Vue？
           </li>
           <li>
-            <b>UI/UX 设计</b>：不知道如何开始学习设计？想提升自己的设计水平？
+            <b>HomeLAB规划</b>：想改善家网络环境，不想为昂贵的视频站会员付费，不知道如何开始。
           </li>
           <li>
-            <b>创业经验</b>
+            <b>个人产品建设</b>
             ：我是
-            <RichLink href="https://zolplay.com" target="_blank">
-              佐玩
+            <RichLink href="https://Pimpi.im" target="_blank">
+              PImpi
             </RichLink>
-            的创始人，现在带领着团队帮助游戏开发者打造协同平台。
-          </li>
-          <li>
-            <b>英语技能</b>：英语能力不足，想提高自己的英语水平？想跟 Cali
-            一样可以{' '}
-            <RichLink
-              href="https://y.qq.com/n/ryqq/songDetail/003c0O9B3firAU"
-              favicon={false}
-              target="_blank"
-            >
-              英文说唱
-            </RichLink>
-            ？
-          </li>
-          <li>
-            <b>其他</b>
-            ：我的美国留学与工作经验，内容创作，音乐制作经验等等都可以帮助你解答一些其他的问题。
+            的创始人，现在帮助客户改善灯光氛围，打造智慧家庭。
           </li>
         </ul>
-        <p>
-          你也可以全程跟我用英语聊，我也非常乐意，因为可能我的英语比中文说的要好。。。
-        </p>
 
         <h2>定价</h2>
         <p>我的一对一咨询的价格为：</p>
         <ul>
           <li>
-            <strong>¥150 - 30分钟</strong>
+            <strong>¥50 - 30分钟</strong>
           </li>
           <li>
-            <strong>¥300 - 60分钟</strong>
+            <strong>¥100 - 60分钟</strong>
           </li>
         </ul>
 
@@ -99,7 +80,7 @@ export default function AskMeAnythingPage() {
         <p>
           一旦你完成支付，通过{' '}
           <RichLink
-            href="https://cal.com/calicastle/ask-me-anything"
+            href="https://cal.com/seele/ask-me-anything"
             target="_blank"
           >
             这个链接
@@ -109,8 +90,7 @@ export default function AskMeAnythingPage() {
 
         <h2>感谢信</h2>
         <p>
-          下面两个截图摘选自两名 Twitter
-          朋友的私信，能够帮助到更多的人一直是我的使命：
+          下面两个截图摘选自两名朋友的改造，能够帮助到更多的人一直是我的使命：
         </p>
         <p className="grid items-center gap-4 lg:grid-cols-2">
           <Image
