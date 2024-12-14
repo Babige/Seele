@@ -58,7 +58,7 @@ function Designer() {
             strokeLinejoin="round"
           />
         </svg>
-        <span className="ml-1 mr-2">照明设计师</span>
+        <span className="ml-1 mr-2">设计师</span>
       </span>
     </span>
   );
@@ -77,7 +77,7 @@ function Founder() {
   return (
     <span className="group ml-2">
       <UserSecurityIcon className="mr-1 inline-flex group-hover:fill-zinc-600/20 dark:group-hover:fill-zinc-200/20" />
-      <span className="ml-1 mr-2">Pimpi创始人</span>
+      <span className="ml-1 mr-2">创始人</span>
     </span>
   )
 }
@@ -113,7 +113,7 @@ export function Headline() {
         }}
       >
         <Balancer>
-          我是 Seele，
+          我是 Seele，一名照明设计师，
           <PeekabooLink href="https://pimpi.im">Pimpi</PeekabooLink>
           创始人，目前带领着Pimpi致力于完成一项充满创造力的工作，同时鼓励团队创造影响世界的产品。
           我热爱设计，创新，享受生活，以及在未知领域中探索。
