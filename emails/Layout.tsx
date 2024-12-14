@@ -44,7 +44,7 @@ export default function Layout({
               />
               <Text className="text-center">
                 <Link
-                  href="https://seele.vercel.app"
+                  href="https://seele.im"
                   className="text-zinc-700 underline"
                 >
                   <strong>Seele Hu</strong>
@@ -54,28 +54,28 @@ export default function Layout({
               </Text>
               <Text className="text-center">
                 <Link
-                  href="https://seele.vercel.app/twitter"
+                  href="https://seele.im/twitter"
                   className="text-xs text-zinc-600 underline"
                 >
                   Twitter
                 </Link>{' '}
                 |&nbsp;
                 <Link
-                  href="https://seele.vercel.app/youtube"
+                  href="https://seele.im/youtube"
                   className="text-xs text-zinc-600 underline"
                 >
                   YouTube
                 </Link>{' '}
                 |&nbsp;
                 <Link
-                  href="https://seele.vercel.app/github"
+                  href="https://seele.im/github"
                   className="text-xs text-zinc-600 underline"
                 >
                   GitHub
                 </Link>{' '}
                 |&nbsp;
                 <Link
-                  href="https://seele.vercel.app/bilibili"
+                  href="https://seele.im/bilibili"
                   className="text-xs text-zinc-600 underline"
                 >
                   哔哩哔哩
