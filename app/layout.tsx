@@ -13,6 +13,18 @@ import { seo } from '~/lib/seo'
 
 export const metadata: Metadata = {
   metadataBase: seo.url,
+  icons: {
+    icon: [
+      { url: '/favicon.ico' },
+      { url: '/icon.png', type: 'image/png' },
+    ],
+    shortcut: '/favicon.ico',
+    apple: '/apple-icon.png',
+    other: {
+      rel: 'apple-touch-icon',
+      url: '/apple-icon.png',
+    },
+  },
   title: {
     template: '%s | Seele Hu',
     default: seo.title,
