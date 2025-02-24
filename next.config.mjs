@@ -35,7 +35,7 @@ const nextConfig = {
       },
       {
         "source": "/youtube",
-        "destination": "https://youtube.com/@Babige",
+        "destination": "https://youtube.com/",
         "permanent": true
       },
       {
@@ -55,7 +55,7 @@ const nextConfig = {
       },
       {
         "source": "/bilibili",
-        "destination": "https://space.bilibili.com/3857835",
+        "destination": "https://space.bilibili.com/",
         "permanent": true
       }
     ]
