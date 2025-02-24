@@ -115,7 +115,7 @@ export function Headline() {
         <Balancer>
           我是 Seele，一名照明设计师，
           <PeekabooLink href="https://pimpi.im">Pimpi</PeekabooLink>
-          创始人，目前带领着Pimpi致力于完成一项充满创造力的工作，同时鼓励团队创造影响世界的产品。
+          创始人，目前带领着Pimpi致力于完成一项充满创造力的工作，同时鼓励团队创造影响世界的项目。
           我热爱设计，创新，享受生活，以及在未知领域中探索。
         </Balancer>
       </motion.p>
