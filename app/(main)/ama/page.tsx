@@ -10,7 +10,7 @@ import ThankYouLetterScreenshot2 from './Arc ynleUdHy@2x.png'
 
 const title = 'AMA 一对一咨询'
 const description =
-  '  提供一对一的咨询服务（Ask Me Anything）。我有各业态（办公、酒店、景观、商业综合体等）的室内外照明设计、家庭智能照明设计、HomeLAB部署、内容创作等经验，可以为你解答相关的问题，我仅支持普通话沟通。'
+  '  提供一对一的咨询服务（Ask Me Anything）。我有各业态（办公、酒店、景观、商业综合体等）的室内外照明设计、家庭智能照明设计、HomeLAB部署、内容创作等经验，可以为你解答相关的问题。欢迎随时邮件交流！我的邮箱：yunzhi_hu@126.com。'
 
 export const metadata = {
   title,
