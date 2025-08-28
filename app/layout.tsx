@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     default: seo.title,
   },
   description: seo.description,
-  keywords: 'Seele,Seele Hu,胡云志,Pimpi,创始人,CEO,工程师,设计师,细节控,创新',
+  keywords: 'Seele,Seele Hu,胡云志,Onezi,创始人,CEO,工程师,设计师,细节控,创新',
   manifest: '/site.webmanifest',
   robots: {
     index: true,
