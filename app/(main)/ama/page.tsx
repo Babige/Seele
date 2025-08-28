@@ -52,8 +52,8 @@ export default function AskMeAnythingPage() {
           <li>
             <b>个人产品建设</b>
             ：我是
-            <RichLink href="https://Pimpi.im" target="_blank">
-              PImpi
+            <RichLink href="https://onezi.de" target="_blank">
+              Onezi
             </RichLink>
             的创始人，现在帮助客户改善灯光氛围，打造智慧家庭。
           </li>
